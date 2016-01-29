@@ -9,9 +9,9 @@ int main()
 float a = 34;
 float b = 6.23;
 
-printf("Dodawanie to: %f",dodawanie(a,b));
-printf("Odejmowanie to: %f",odejmowanie(a,b));
-printf("Mnozenie to: %f",mnozenie(a,b));
+printf("Dodawanie to: %f\n",dodawanie(a,b));
+printf("Odejmowanie to: %f\n",odejmowanie(a,b));
+printf("Mnozenie to: %f\n",mnozenie(a,b));
 
 return 0;
 }
