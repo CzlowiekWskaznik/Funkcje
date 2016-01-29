@@ -5,4 +5,3 @@ suma=a*b;
 return suma;
 }
 
-//nowa wersja
